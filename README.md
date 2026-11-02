@@ -1,6 +1,6 @@
 <samp>building ai agents &nbsp;·&nbsp; delhi, india</samp>
 
-<samp>cs undergrad at ggsipu delhi ('28), building things that read code so you don't have to. right now i'm building <b><a href="https://gnosis.piunknown.dev">gnosis</a></b>, a code archaeology agent that turns any public github repo into a full onboarding doc. before this, <b>data science intern at Indian Navt (wesee)</b>, working on a vessel-data ingestion pipeline.</samp>
+<samp>cs undergrad at ggsipu delhi ('28), building things that read code so you don't have to. right now i'm building <b><a href="https://gnosis.piunknown.dev">gnosis</a></b>, a code archaeology agent that turns any public github repo into a full onboarding doc. before this, <b>data science intern at Indian Navy (wesee)</b>, working on a vessel-data ingestion pipeline.</samp>
 
 <samp>i also ship side projects. <a href="https://github.com/PiUnknown/IssueRouter">issuerouter</a> triages citizen complaints on x into ranked briefs on an officer dashboard. <b>terragraph</b> reasons across soil, water, land-use and biodiversity data to give evidence-backed recommendations.</samp>
 
